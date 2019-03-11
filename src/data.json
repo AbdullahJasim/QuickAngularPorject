@@ -1,0 +1,61 @@
+{
+  "recipes": [
+    {
+      "id":1,
+      "title": "Best Salad in the World",
+      "description": "This is a recipe for the best tasting salad in the world. It has lots of carrots and lettuce!",
+      "serves": "2 people",
+      "imageUrl": "assets/veggies.jpeg",
+      "ingredients": [
+        {
+          "amount": "1 head",
+          "name": "lettuce"
+        },
+        {
+          "amount": "10",
+          "name": "carrots"
+        },
+        {
+          "amount": "2 tablespoons",
+          "name": "ranch dressing"
+        }
+      ],
+      "instructions": [
+        "remove lettuce leaves",
+        "add lettuce leaves to a large bowl",
+        "then add the carrots to the bowl",
+        "add the ranch dressing",
+        "then mix ingredients together in the bowl"
+      ]
+    },
+
+    {
+      "id":2,
+      "title": "Pancakes",
+      "description": "Recipe for blueberry pancakes",
+      "serves": "2 people",
+      "imageUrl": "assets/pancakes.jpeg",
+      "ingredients": [
+        {
+          "amount": "1 cup",
+          "name": "pancake mix"
+        },
+        {
+          "amount": "1 lb",
+          "name": "blueberries"
+        },
+        {
+          "amount": "2 tablespoons",
+          "name": "maple syrup"
+        }
+      ],
+      "instructions": [
+        "add water to pancake mix",
+        "stir the mix until smooth",
+        "put in frying pan for 30 seconds",
+        "flip to other side, fry for 15 seconds",
+        "put the pancake on a dish, serve with blueberries"
+      ]
+    }
+  ]
+}
